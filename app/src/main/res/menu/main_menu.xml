@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_color"
+        android:orderInCategory="1"
+        android:title="Колір" />
+    <item
+        android:id="@+id/action_goto"
+        android:orderInCategory="2"
+        android:title="Інформація" />
+    <item
+        android:id="@+id/action_info"
+        android:orderInCategory="3"
+        android:title="Автор" />
+    <item
+        android:id="@+id/action_exit"
+        android:orderInCategory="4"
+        android:title="Вийти" />
+
+</menu>
